@@ -1,3 +1,17 @@
-2022/12/17-10:26:15.393 11003 Reusing MANIFEST /Users/Nimrod/Desktop/whatsapp bot - and node app/whatsapp bot Node/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/17-10:26:15.394 11003 Recovering log #922
-2022/12/17-10:26:15.404 11003 Reusing old log /Users/Nimrod/Desktop/whatsapp bot - and node app/whatsapp bot Node/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000922.log 
+2022/12/17-23:26:35.296 14d03 Reusing MANIFEST /Users/Nimrod/Desktop/whatsapp bot - and node app/whatsapp bot Node/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/17-23:26:35.298 14d03 Recovering log #1028
+2022/12/17-23:26:35.298 14d03 Reusing old log /Users/Nimrod/Desktop/whatsapp bot - and node app/whatsapp bot Node/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/001028.log 
+2022/12/17-23:26:36.420 14d03 Compacting 1@0 + 0@1 files
+2022/12/17-23:26:36.448 14d03 Generated table #1031@0: 14409 keys, 257093 bytes
+2022/12/17-23:26:36.464 14d03 Generated table #1032@0: 2468 keys, 164705 bytes
+2022/12/17-23:26:36.464 14d03 Compacted 1@0 + 0@1 files => 421798 bytes
+2022/12/17-23:26:36.485 14d03 compacted to: files[ 0 3 31 0 0 0 0 ]
+2022/12/17-23:26:36.489 14d03 Delete type=2 #1029
+2022/12/17-23:26:46.933 1f80b Compacting 1@1 + 2@2 files
+2022/12/17-23:26:47.101 1f80b Generated table #1033@1: 40647 keys, 2257558 bytes
+2022/12/17-23:26:47.204 1f80b Generated table #1034@1: 29434 keys, 2203010 bytes
+2022/12/17-23:26:47.205 1f80b Compacted 1@1 + 2@2 files => 4460568 bytes
+2022/12/17-23:26:47.230 1f80b compacted to: files[ 0 2 31 0 0 0 0 ]
+2022/12/17-23:26:47.232 1f80b Delete type=2 #1018
+2022/12/17-23:26:47.232 1f80b Delete type=2 #1031
+2022/12/17-23:26:47.232 1f80b Delete type=2 #1019
