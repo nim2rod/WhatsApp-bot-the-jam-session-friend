@@ -1,28 +1,62 @@
-2022/12/16-18:30:15.992 ae03 Reusing MANIFEST /Users/Nimrod/Desktop/whatsapp bot - and node app/whatsapp bot Node/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2022/12/16-18:30:15.993 ae03 Recovering log #864
-2022/12/16-18:30:16.000 ae03 Reusing old log /Users/Nimrod/Desktop/whatsapp bot - and node app/whatsapp bot Node/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000864.log 
-2022/12/16-18:30:26.849 9103 Compacting 1@1 + 10@2 files
-2022/12/16-18:30:26.963 9103 Generated table #880@1: 25051 keys, 2275810 bytes
-2022/12/16-18:30:27.063 9103 Generated table #881@1: 25868 keys, 2266885 bytes
-2022/12/16-18:30:27.159 9103 Generated table #882@1: 21506 keys, 2212820 bytes
-2022/12/16-18:30:27.239 9103 Generated table #883@1: 6377 keys, 2127322 bytes
-2022/12/16-18:30:27.306 9103 Generated table #884@1: 5037 keys, 2123617 bytes
-2022/12/16-18:30:27.434 9103 Generated table #885@1: 42446 keys, 2171261 bytes
-2022/12/16-18:30:27.622 9103 Generated table #886@1: 100265 keys, 2250289 bytes
-2022/12/16-18:30:27.770 9103 Generated table #887@1: 99960 keys, 2249272 bytes
-2022/12/16-18:30:27.906 9103 Generated table #888@1: 100631 keys, 2251495 bytes
-2022/12/16-18:30:28.036 9103 Generated table #889@1: 100162 keys, 2249804 bytes
-2022/12/16-18:30:28.062 9103 Generated table #890@1: 11284 keys, 248713 bytes
-2022/12/16-18:30:28.063 9103 Compacted 1@1 + 10@2 files => 22427288 bytes
-2022/12/16-18:30:28.088 9103 compacted to: files[ 0 1 25 0 0 0 0 ]
-2022/12/16-18:30:28.089 9103 Delete type=2 #857
-2022/12/16-18:30:28.089 9103 Delete type=2 #856
-2022/12/16-18:30:28.089 9103 Delete type=2 #854
-2022/12/16-18:30:28.089 9103 Delete type=2 #855
-2022/12/16-18:30:28.089 9103 Delete type=2 #851
-2022/12/16-18:30:28.089 9103 Delete type=2 #852
-2022/12/16-18:30:28.089 9103 Delete type=2 #853
-2022/12/16-18:30:28.089 9103 Delete type=2 #761
-2022/12/16-18:30:28.089 9103 Delete type=2 #762
-2022/12/16-18:30:28.089 9103 Delete type=2 #858
-2022/12/16-18:30:28.089 9103 Delete type=2 #867
+2022/12/17-10:25:00.961 6c07 Reusing MANIFEST /Users/Nimrod/Desktop/whatsapp bot - and node app/whatsapp bot Node/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/17-10:25:00.962 6c07 Recovering log #892
+2022/12/17-10:25:01.008 6c07 Reusing old log /Users/Nimrod/Desktop/whatsapp bot - and node app/whatsapp bot Node/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000892.log 
+2022/12/17-10:25:18.879 6803 Level-0 table #923: started
+2022/12/17-10:25:18.934 6803 Level-0 table #923: 1326208 bytes OK
+2022/12/17-10:25:18.975 6803 Delete type=0 #892
+2022/12/17-10:25:18.977 6803 Compacting 1@0 + 0@1 files
+2022/12/17-10:25:19.029 6803 Generated table #924@0: 17965 keys, 532301 bytes
+2022/12/17-10:25:19.042 6803 Generated table #925@0: 483 keys, 19211 bytes
+2022/12/17-10:25:19.057 6803 Generated table #926@0: 111 keys, 2422 bytes
+2022/12/17-10:25:19.057 6803 Compacted 1@0 + 0@1 files => 553934 bytes
+2022/12/17-10:25:19.084 6803 compacted to: files[ 0 3 25 0 0 0 0 ]
+2022/12/17-10:25:19.130 6c07 Compacting 1@1 + 10@2 files
+2022/12/17-10:25:19.254 6c07 Generated table #927@1: 40842 keys, 2243553 bytes
+2022/12/17-10:25:19.369 6c07 Generated table #928@1: 23762 keys, 2172854 bytes
+2022/12/17-10:25:19.444 6c07 Generated table #929@1: 2450 keys, 2153717 bytes
+2022/12/17-10:25:19.532 6c07 Generated table #930@1: 1933 keys, 2138652 bytes
+2022/12/17-10:25:19.605 6c07 Generated table #931@1: 1954 keys, 2170317 bytes
+2022/12/17-10:25:19.682 6c07 Generated table #932@1: 2170 keys, 2152335 bytes
+2022/12/17-10:25:19.759 6c07 Generated table #933@1: 2292 keys, 2153333 bytes
+2022/12/17-10:25:19.827 6c07 Generated table #934@1: 1681 keys, 2147962 bytes
+2022/12/17-10:25:19.926 6c07 Generated table #935@1: 3749 keys, 2157423 bytes
+2022/12/17-10:25:20.032 6c07 Generated table #936@1: 25466 keys, 2169240 bytes
+2022/12/17-10:25:20.033 6c07 Compacted 1@1 + 10@2 files => 21659386 bytes
+2022/12/17-10:25:20.065 6c07 compacted to: files[ 0 2 25 0 0 0 0 ]
+2022/12/17-10:25:20.066 6c07 Delete type=2 #923
+2022/12/17-10:25:20.066 6c07 Delete type=2 #897
+2022/12/17-10:25:20.066 6c07 Delete type=2 #924
+2022/12/17-10:25:20.066 6c07 Delete type=2 #902
+2022/12/17-10:25:20.066 6c07 Delete type=2 #903
+2022/12/17-10:25:20.066 6c07 Delete type=2 #901
+2022/12/17-10:25:20.066 6c07 Delete type=2 #900
+2022/12/17-10:25:20.066 6c07 Delete type=2 #904
+2022/12/17-10:25:20.066 6c07 Delete type=2 #905
+2022/12/17-10:25:20.066 6c07 Delete type=2 #898
+2022/12/17-10:25:20.066 6c07 Delete type=2 #906
+2022/12/17-10:25:20.067 6c07 Delete type=2 #899
+2022/12/17-10:25:37.097 15b0b Compacting 1@1 + 10@2 files
+2022/12/17-10:25:37.202 15b0b Generated table #937@1: 25059 keys, 2275841 bytes
+2022/12/17-10:25:37.304 15b0b Generated table #938@1: 25881 keys, 2267367 bytes
+2022/12/17-10:25:37.400 15b0b Generated table #939@1: 21659 keys, 2217744 bytes
+2022/12/17-10:25:37.471 15b0b Generated table #940@1: 6380 keys, 2127008 bytes
+2022/12/17-10:25:37.537 15b0b Generated table #941@1: 5043 keys, 2124162 bytes
+2022/12/17-10:25:37.624 15b0b Generated table #942@1: 41744 keys, 2170575 bytes
+2022/12/17-10:25:37.744 15b0b Generated table #943@1: 100425 keys, 2250879 bytes
+2022/12/17-10:25:37.876 15b0b Generated table #944@1: 99959 keys, 2249169 bytes
+2022/12/17-10:25:38.000 15b0b Generated table #945@1: 100563 keys, 2249392 bytes
+2022/12/17-10:25:38.124 15b0b Generated table #946@1: 100113 keys, 2250688 bytes
+2022/12/17-10:25:38.138 15b0b Generated table #947@1: 777 keys, 16809 bytes
+2022/12/17-10:25:38.139 15b0b Compacted 1@1 + 10@2 files => 22199634 bytes
+2022/12/17-10:25:38.168 15b0b compacted to: files[ 0 1 26 0 0 0 0 ]
+2022/12/17-10:25:38.169 15b0b Delete type=2 #908
+2022/12/17-10:25:38.169 15b0b Delete type=2 #909
+2022/12/17-10:25:38.169 15b0b Delete type=2 #925
+2022/12/17-10:25:38.169 15b0b Delete type=2 #916
+2022/12/17-10:25:38.169 15b0b Delete type=2 #915
+2022/12/17-10:25:38.169 15b0b Delete type=2 #914
+2022/12/17-10:25:38.169 15b0b Delete type=2 #910
+2022/12/17-10:25:38.169 15b0b Delete type=2 #911
+2022/12/17-10:25:38.169 15b0b Delete type=2 #913
+2022/12/17-10:25:38.169 15b0b Delete type=2 #907
+2022/12/17-10:25:38.169 15b0b Delete type=2 #912
