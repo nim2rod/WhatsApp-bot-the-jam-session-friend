@@ -1,0 +1,28 @@
+2022/12/16-18:30:15.992 ae03 Reusing MANIFEST /Users/Nimrod/Desktop/whatsapp bot - and node app/whatsapp bot Node/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/12/16-18:30:15.993 ae03 Recovering log #864
+2022/12/16-18:30:16.000 ae03 Reusing old log /Users/Nimrod/Desktop/whatsapp bot - and node app/whatsapp bot Node/.wwebjs_auth/session/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000864.log 
+2022/12/16-18:30:26.849 9103 Compacting 1@1 + 10@2 files
+2022/12/16-18:30:26.963 9103 Generated table #880@1: 25051 keys, 2275810 bytes
+2022/12/16-18:30:27.063 9103 Generated table #881@1: 25868 keys, 2266885 bytes
+2022/12/16-18:30:27.159 9103 Generated table #882@1: 21506 keys, 2212820 bytes
+2022/12/16-18:30:27.239 9103 Generated table #883@1: 6377 keys, 2127322 bytes
+2022/12/16-18:30:27.306 9103 Generated table #884@1: 5037 keys, 2123617 bytes
+2022/12/16-18:30:27.434 9103 Generated table #885@1: 42446 keys, 2171261 bytes
+2022/12/16-18:30:27.622 9103 Generated table #886@1: 100265 keys, 2250289 bytes
+2022/12/16-18:30:27.770 9103 Generated table #887@1: 99960 keys, 2249272 bytes
+2022/12/16-18:30:27.906 9103 Generated table #888@1: 100631 keys, 2251495 bytes
+2022/12/16-18:30:28.036 9103 Generated table #889@1: 100162 keys, 2249804 bytes
+2022/12/16-18:30:28.062 9103 Generated table #890@1: 11284 keys, 248713 bytes
+2022/12/16-18:30:28.063 9103 Compacted 1@1 + 10@2 files => 22427288 bytes
+2022/12/16-18:30:28.088 9103 compacted to: files[ 0 1 25 0 0 0 0 ]
+2022/12/16-18:30:28.089 9103 Delete type=2 #857
+2022/12/16-18:30:28.089 9103 Delete type=2 #856
+2022/12/16-18:30:28.089 9103 Delete type=2 #854
+2022/12/16-18:30:28.089 9103 Delete type=2 #855
+2022/12/16-18:30:28.089 9103 Delete type=2 #851
+2022/12/16-18:30:28.089 9103 Delete type=2 #852
+2022/12/16-18:30:28.089 9103 Delete type=2 #853
+2022/12/16-18:30:28.089 9103 Delete type=2 #761
+2022/12/16-18:30:28.089 9103 Delete type=2 #762
+2022/12/16-18:30:28.089 9103 Delete type=2 #858
+2022/12/16-18:30:28.089 9103 Delete type=2 #867
