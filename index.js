@@ -9,7 +9,8 @@ const { readFile } = require('fs')
 const { Client, LocalAuth } = require('whatsapp-web.js');
 
 const songService = require('./services/return_song_service.js')
-const lyricsService = require('./services/lyrics_service.js')
+const lyricsService = require('./services/lyrics_service.js');
+const { mapGetters } = require('vuex');
 
 songService.printHello()
 lyricsService.sayHello()
@@ -43,7 +44,10 @@ client.on('message', message => {
 
 function returnRandom4ChordSong(msg) {
     const chosenSong = songService.return4ChordSongObj() /// {name: 'הקנאה', by:'יוני בלוך', lyrics:'כגדכ דגכדגכ דגכדגכ דגככ'}
-    const strSongArtistName = `${chosenSong.name} - ${chosenSong.by} - /C /G /Am /F /`
+    const strSongArtistName = `${chosenSong.name} - ${chosenSong.by} 
+     /C /G /Am /F /
+          OR  
+    /G /D /Em /C /`
     console.log(strSongArtistName);
     msg.reply(strSongArtistName)
     lyricsService.operateLyricsApi(chosenSong.name, chosenSong.by, msg)
@@ -120,10 +124,12 @@ function returnRandom4ChordSong(msg) {
 function returnRandomSong(msg) {
     const chosenSong = songService.returnSongObj() /// {name: 'הקנאה', by:'יוני בלוך', lyrics:'כגדכ דגכדגכ דגכדגכ דגככ'}
     const strSongArtistName = `${chosenSong.name} - ${chosenSong.by}`
+    const tab4u = `${chosenSong.tab4u}`
     console.log(strSongArtistName);
 
     msg.reply(strSongArtistName)
     lyricsService.operateLyricsApi(chosenSong.name, chosenSong.by, msg)
+    msg.reply(tab4u)
 }
 
 // function returnSongObj() {
