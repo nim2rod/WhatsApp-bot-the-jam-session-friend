@@ -122,7 +122,7 @@ function returnRandom4ChordSong(msg) {
 // }
 
 function returnRandomSong(msg) {
-    const chosenSong = songService.returnSongObj() /// {name: 'הקנאה', by:'יוני בלוך', lyrics:'כגדכ דגכדגכ דגכדגכ דגככ'}
+    const chosenSong = songService.returnSongObj() /// {name: 'הקנאה', by:'יוני בלוך', tab4u:'כגדכ דגכדגכ דגכדגכ דגככ'}
     const strSongArtistName = `${chosenSong.name} - ${chosenSong.by}`
     const tab4u = `${chosenSong.tab4u}`
     console.log(strSongArtistName);
