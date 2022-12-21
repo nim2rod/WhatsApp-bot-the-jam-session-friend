@@ -1,4 +1,4 @@
-// works great in the begining, then -> ERR cant find module vuex
+// works great in the begining, then -> ERR cant find module vuexמפצ ן הוק
 
 const qrcode = require('qrcode-terminal');
 const express = require('express')
