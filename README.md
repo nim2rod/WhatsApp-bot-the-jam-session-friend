@@ -34,3 +34,11 @@ The app is for my frinds and me and not for commercial purpose.
 - whatsapp-web.js - a package for connect whatsapp to your project.<br>
 - QRcode Terminal Edition - a package that help with display some data to the terminal.
  this is for scanning the QR code for connecting my whatsapp account and my server in my project.
+ 
+ ![WhatsApp Image 2022-12-23 at 18 01 21 (1)](https://user-images.githubusercontent.com/106229019/209364555-f52ec4ed-07e9-4ea2-8b51-267824aacd82.jpeg)
+
+![WhatsApp Image 2022-12-23 at 18 01 21](https://user-images.githubusercontent.com/106229019/209364633-e2c61487-ca37-4b43-ad41-c24c5f1b2390.jpeg)
+
+![WhatsApp Image 2022-12-23 at 18 01 22](https://user-images.githubusercontent.com/106229019/209364665-96aa89bd-d8d6-4625-b082-4f46cd405fd3.jpeg)
+
+
